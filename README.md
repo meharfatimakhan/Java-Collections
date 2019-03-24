@@ -1,7 +1,5 @@
 # Java-Collections
 
-My Roll Number is 16L-4388.
-
 This document covers the differences of the following and has code snippets:
 1.	ArrayList vs Vector
 2.	HashSet vs SortedSet	
